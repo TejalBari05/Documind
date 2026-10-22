@@ -168,6 +168,11 @@ npm start
 ```
 
 ---
+👩‍💻 Author
+
+Tejal Bari
+
+GitHub: @TejalBari05
 
 ## 🛡️ License
 
